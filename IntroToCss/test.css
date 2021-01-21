@@ -2,26 +2,26 @@ body {
     background-image: url('dark_wood.png');
 }
 
-p, span, h3{
+p, span, h3, #Header h1{
     font-weight: bold; 
-    font-family: "Arial";
     text-align: center;
 }
 
 p {
     color: white; 
+    font-family: "Arial";
 }
 
 span {
     color: palevioletred; 
     font-size: 40px; 
     text-shadow: 2px 2px red;
+    font-family: "Arial";
 }
 
 #Header h1, h3 {
     font-family: "Passion One"; 
     color: #FFBC00; 
-    font-weight: bold; 
     text-shadow: 2px 2px black;
 }
 
